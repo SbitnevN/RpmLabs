@@ -1,0 +1,12 @@
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\bin\Debug\net8.0-windows\MedRepairTrack.Core.deps.json
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\bin\Debug\net8.0-windows\MedRepairTrack.Core.dll
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\bin\Debug\net8.0-windows\MedRepairTrack.Core.pdb
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\MedRepairTrack.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\MedRepairTrack.Core.AssemblyInfoInputs.cache
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\MedRepairTrack.Core.AssemblyInfo.cs
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\MedRepairTrack.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\MedRepairTrack.Core.sourcelink.json
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\MedRepairTrack.Core.dll
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\refint\MedRepairTrack.Core.dll
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\MedRepairTrack.Core.pdb
+D:\GitHub\RpmLabs\MedRepairTrack\MedRepairTrack.Core\obj\Debug\net8.0-windows\ref\MedRepairTrack.Core.dll
