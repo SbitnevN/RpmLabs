@@ -1,0 +1,563 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|d:\\github\\rpmlabs\\lab3\\medrepairtrack\\medrepairtrack.application\\userlist\\user\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\userlist\\user\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\equipmentlist\\equipment\\model\\equipmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\equipmentlist\\equipment\\model\\equipmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\requestlist\\requestlisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\requestlist\\requestlisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\requestlist\\request\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\requestlist\\request\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\requestlist\\request\\requesteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\requestlist\\request\\requesteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\requestlist\\request\\requesteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\requestlist\\request\\requesteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\equipmentlist\\equipmentlistview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\equipmentlist\\equipmentlistview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\equipmentlist\\equipmentlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\equipmentlist\\equipmentlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\equipmentlist\\equipmentlisteditor.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\equipmentlist\\equipmentlisteditor.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\equipmentlist\\equipmentlisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\equipmentlist\\equipmentlisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\userlist\\userlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\userlist\\userlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\userlist\\userlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\userlist\\userlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\userlist\\userlisteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\userlist\\userlisteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\userlist\\userlisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\userlist\\userlisteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\authentication\\login\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\authentication\\login\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\equipmentlist\\equipment\\equipmenteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\equipmentlist\\equipment\\equipmenteditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\equipmentlist\\equipment\\equipmenteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\equipmentlist\\equipment\\equipmenteditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\userlist\\user\\usereditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\userlist\\user\\usereditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\userlist\\user\\usereditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\userlist\\user\\usereditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.core\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|solutionrelative:medrepairtrack.core\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\authentication\\authenticationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\authentication\\authenticationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.core\\abstractions\\ivalidatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|solutionrelative:medrepairtrack.core\\abstractions\\ivalidatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.core\\extensions\\observablecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|solutionrelative:medrepairtrack.core\\extensions\\observablecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\authentication\\registration\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\authentication\\registration\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\authentication\\authenticationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\authentication\\authenticationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\requestlist\\requestlisteditor.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\requestlist\\requestlisteditor.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.core\\abstractions\\formstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|solutionrelative:medrepairtrack.core\\abstractions\\formstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SbitnevNA\\AppData\\Local\\Temp\\.vsdbgsrc\\6caf6b08d78ee96e2179e78f837538b34323b440d8afb5588fa3eae56c6ae8de\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.core\\abstractions\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D62271B-0DAA-44DE-8891-CF81E64E8165}|MedRepairTrack.Core\\MedRepairTrack.Core.csproj|solutionrelative:medrepairtrack.core\\abstractions\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\medrepairtrack.application\\medrepairtrack.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}|MedRepairTrack.Application\\MedRepairTrack.Application.csproj|solutionrelative:medrepairtrack.application\\medrepairtrack.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAowAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-22T12:31:22.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EquipmentListView.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\EquipmentListView.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\EquipmentList\\EquipmentListView.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\EquipmentListView.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\EquipmentList\\EquipmentListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T12:15:29.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\Request\\Model\\RequestModel.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\RequestList\\Request\\Model\\RequestModel.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\Request\\Model\\RequestModel.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\RequestList\\Request\\Model\\RequestModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:20:15.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipmentListView.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\EquipmentListView.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\EquipmentList\\EquipmentListView.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\EquipmentListView.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\EquipmentList\\EquipmentListView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:16:04.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipmentModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\Equipment\\Model\\EquipmentModel.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\EquipmentList\\Equipment\\Model\\EquipmentModel.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\Equipment\\Model\\EquipmentModel.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\EquipmentList\\Equipment\\Model\\EquipmentModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:30:03.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\User\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\UserList\\User\\Model\\UserModel.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\User\\Model\\UserModel.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\UserList\\User\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:36:29.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestListEditor.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\RequestListEditor.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\RequestList\\RequestListEditor.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\RequestListEditor.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\RequestList\\RequestListEditor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T03:12:23.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestEditor.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\Request\\RequestEditor.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\RequestList\\Request\\RequestEditor.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\Request\\RequestEditor.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\RequestList\\Request\\RequestEditor.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:59:25.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestEditor.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\Request\\RequestEditor.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\RequestList\\Request\\RequestEditor.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\Request\\RequestEditor.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\RequestList\\Request\\RequestEditor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T02:50:39.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipmentListEditor.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\EquipmentListEditor.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\EquipmentList\\EquipmentListEditor.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\EquipmentListEditor.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\EquipmentList\\EquipmentListEditor.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:10:40.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:18:56.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\MainWindow.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\MainWindow.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T02:18:58.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EquipmentListEditor.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\EquipmentListEditor.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\EquipmentList\\EquipmentListEditor.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\EquipmentListEditor.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\EquipmentList\\EquipmentListEditor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T12:11:47.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserListView.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\UserListView.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\UserList\\UserListView.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\UserListView.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\UserList\\UserListView.xaml.cs",
+              "ViewState": "AgIAAAMAAABAzszMzIwjwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:27:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserListView.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\UserListView.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\UserList\\UserListView.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\UserListView.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\UserList\\UserListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T03:26:06.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserListEditor.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\UserListEditor.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\UserList\\UserListEditor.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\UserListEditor.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\UserList\\UserListEditor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T05:49:45.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EquipmentEditor.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\Equipment\\EquipmentEditor.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\EquipmentList\\Equipment\\EquipmentEditor.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\Equipment\\EquipmentEditor.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\EquipmentList\\Equipment\\EquipmentEditor.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:41:46.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserListEditor.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\UserListEditor.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\UserList\\UserListEditor.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\UserListEditor.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\UserList\\UserListEditor.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:50:13.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EquipmentEditor.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\Equipment\\EquipmentEditor.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\EquipmentList\\Equipment\\EquipmentEditor.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\EquipmentList\\Equipment\\EquipmentEditor.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\EquipmentList\\Equipment\\EquipmentEditor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T11:41:30.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginControl.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\Authentication\\Login\\LoginControl.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\Authentication\\Login\\LoginControl.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\Authentication\\Login\\LoginControl.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\Authentication\\Login\\LoginControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T09:39:48.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserEditor.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\User\\UserEditor.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\UserList\\User\\UserEditor.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\User\\UserEditor.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\UserList\\User\\UserEditor.xaml.cs",
+              "ViewState": "AgIAAAcAAADAAQAAAIAXwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:29:42.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserEditor.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\User\\UserEditor.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\UserList\\User\\UserEditor.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\UserList\\User\\UserEditor.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\UserList\\User\\UserEditor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T03:29:09.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Core\\Extensions\\StringExtensions.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "MedRepairTrack.Core\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:16:28.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenticationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\Authentication\\AuthenticationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\Authentication\\AuthenticationWindow.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\Authentication\\AuthenticationWindow.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\Authentication\\AuthenticationWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAANDMzMzMEwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:56:59.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IValidatable.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Abstractions\\IValidatable.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Core\\Abstractions\\IValidatable.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Abstractions\\IValidatable.cs",
+              "RelativeToolTip": "MedRepairTrack.Core\\Abstractions\\IValidatable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:13:56.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ObservableCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Extensions\\ObservableCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Core\\Extensions\\ObservableCollectionExtensions.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Extensions\\ObservableCollectionExtensions.cs",
+              "RelativeToolTip": "MedRepairTrack.Core\\Extensions\\ObservableCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:01:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegistrationControl.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\Authentication\\Registration\\RegistrationControl.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\Authentication\\Registration\\RegistrationControl.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\Authentication\\Registration\\RegistrationControl.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\Authentication\\Registration\\RegistrationControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T09:40:08.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthenticationWindow.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\Authentication\\AuthenticationWindow.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\Authentication\\AuthenticationWindow.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\Authentication\\AuthenticationWindow.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\Authentication\\AuthenticationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T09:55:24.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\App.xaml",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\App.xaml",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\App.xaml",
+              "RelativeToolTip": "MedRepairTrack.Application\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-21T10:04:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RequestListEditor.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\RequestListEditor.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\RequestList\\RequestListEditor.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\RequestList\\RequestListEditor.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\RequestList\\RequestListEditor.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:13:07.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormState.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Abstractions\\FormState.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Core\\Abstractions\\FormState.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Abstractions\\FormState.cs",
+              "RelativeToolTip": "MedRepairTrack.Core\\Abstractions\\FormState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:40:59.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\SbitnevNA\\AppData\\Local\\Temp\\.vsdbgsrc\\6caf6b08d78ee96e2179e78f837538b34323b440d8afb5588fa3eae56c6ae8de\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\SbitnevNA\\AppData\\Local\\Temp\\.vsdbgsrc\\6caf6b08d78ee96e2179e78f837538b34323b440d8afb5588fa3eae56c6ae8de\\NavigationService.cs [Read Only]",
+              "ViewState": "AgIAAAgEAAAAAAAAAIAwwB4EAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:10:55.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Abstractions\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Core\\Abstractions\\ViewModelBase.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Core\\Abstractions\\ViewModelBase.cs",
+              "RelativeToolTip": "MedRepairTrack.Core\\Abstractions\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:37:17.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\App.xaml.cs",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\App.xaml.cs",
+              "RelativeToolTip": "MedRepairTrack.Application\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:20:09.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MedRepairTrack.Application",
+              "DocumentMoniker": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\MedRepairTrack.Application.csproj",
+              "RelativeDocumentMoniker": "MedRepairTrack.Application\\MedRepairTrack.Application.csproj",
+              "ToolTip": "D:\\GitHub\\RpmLabs\\Lab3\\MedRepairTrack\\MedRepairTrack.Application\\MedRepairTrack.Application.csproj",
+              "RelativeToolTip": "MedRepairTrack.Application\\MedRepairTrack.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T03:04:36.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

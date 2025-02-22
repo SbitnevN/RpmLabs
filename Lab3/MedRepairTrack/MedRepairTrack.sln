@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedRepairTrack.Application", "MedRepairTrack.Application\MedRepairTrack.Application.csproj", "{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedRepairTrack.Core", "MedRepairTrack.Core\MedRepairTrack.Core.csproj", "{6D62271B-0DAA-44DE-8891-CF81E64E8165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850EFBCD-F7F6-43D5-AEC1-35DCAE1C86FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D62271B-0DAA-44DE-8891-CF81E64E8165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D62271B-0DAA-44DE-8891-CF81E64E8165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D62271B-0DAA-44DE-8891-CF81E64E8165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D62271B-0DAA-44DE-8891-CF81E64E8165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

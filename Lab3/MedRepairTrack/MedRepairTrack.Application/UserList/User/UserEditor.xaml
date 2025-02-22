@@ -1,0 +1,30 @@
+﻿<Window x:Class="MedRepairTrack.Application.UserList.User.UserEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MedRepairTrack.Application.UserList.User"
+        mc:Ignorable="d"
+        Title="UserEditor" Height="207" Width="354">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="75*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="26*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Height="24" Grid.Row="1" TextWrapping="Wrap" Text="{Binding FullName}" VerticalAlignment="Center" Margin="10,0,10,0"/>
+        <TextBox Height="23" Grid.Row="2" TextWrapping="Wrap" Text="{Binding Phone}" VerticalAlignment="Center" Margin="10,0,10,0"/>
+
+        <Label Grid.Column="1" Content="Фио" Margin="10,0,10,0" Grid.Row="1" VerticalAlignment="Center" Height="26"/>
+        <Label Grid.Column="1" Content="Номер телефона" Margin="10,0,10,0" Grid.Row="2" VerticalAlignment="Center" Height="26"/>
+        <Button Content="Ок" Grid.Row="3" VerticalAlignment="Center" Height="21" Margin="10,0,10,0" Click="AcceptClick"/>
+        <Button Content="Отмена" Grid.Row="3" VerticalAlignment="Center" Height="21" Margin="7,0,7,0" Click="CancelClick" Grid.Column="1"/>
+
+    </Grid>
+</Window>
