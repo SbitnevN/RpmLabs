@@ -4,9 +4,8 @@ using System.Windows.Controls;
 using MedRepairTrack.Application.RequestList.Request.Model;
 using MedRepairTrack.Application.RequestList.Request;
 using MedRepairTrack.Core.Extensions;
-using MedRepairTrack.Application.UserList.User.Model;
-using MedRepairTrack.Application.UserList.User;
 using MedRepairTrack.Core.Abstractions;
+using MedRepairTrack.Application.RequestList.Request.Queries;
 
 namespace MedRepairTrack.Application.RequestList
 {
@@ -15,12 +14,17 @@ namespace MedRepairTrack.Application.RequestList
     /// </summary>
     public partial class RequestListEditor : UserControl
     {
+        private RequestQueries _requestQueries => RequestQueries.Instance;
         public ObservableCollection<RequestModel> Request { get; } = new ObservableCollection<RequestModel>();
 
         public RequestListEditor()
         {
             InitializeComponent();
             DataContext = this;
+            foreach (RequestModel request in _requestQueries.GetAll())
+            {
+                Request.Add(request);
+            }
         }
 
         private void AddNewRequest(object sender, RoutedEventArgs e)
@@ -30,6 +34,7 @@ namespace MedRepairTrack.Application.RequestList
             bool result = requestEditor.ShowDialog() ?? false;
             if (result)
             {
+                _requestQueries.Add(request);
                 Request.Add(request);
                 Request.Refresh();
             }
@@ -48,6 +53,7 @@ namespace MedRepairTrack.Application.RequestList
             bool result = requestEditor.ShowDialog() ?? false;
             if (result)
             {
+                _requestQueries.Edit(requestEditor.RequestModel);
                 Request[Request.IndexOf(requestModel)] = requestEditor.RequestModel;
                 Request.Refresh();
             }

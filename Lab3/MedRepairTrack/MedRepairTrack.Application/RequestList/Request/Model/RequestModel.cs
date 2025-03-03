@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-using MedRepairTrack.Application.EquipmentList.Equipment.Model;
+﻿using MedRepairTrack.Application.EquipmentList.Equipment.Model;
 using MedRepairTrack.Application.UserList.User.Model;
 using MedRepairTrack.Core.Abstractions;
 using MedRepairTrack.Core.Extensions;
@@ -17,13 +16,13 @@ namespace MedRepairTrack.Application.RequestList.Request.Model
         private UserModel? _user;
         private EquipmentModel? _equipment;
 
-        public Guid Id { get; private set; } = new Guid();
+        public Guid Id { get; private set; } = Guid.NewGuid();
 
         public List<RequestStatus> RequestStatusValues { get; private set; } = Enum.GetValues(typeof(RequestStatus))
             .Cast<RequestStatus>()
             .ToList();
 
-        public long Number { get; set; }
+        public Guid Number { get; set; } = Guid.NewGuid();
 
         public DateTime Date { get; set; } = DateTime.Now;
 
@@ -63,7 +62,7 @@ namespace MedRepairTrack.Application.RequestList.Request.Model
 
         public string Validate()
         {
-            if (Number < 0)
+            if (Guid.Empty == Number)
                 return "Номер меньше нуля";
 
             if (Description.IsNullOrEmpty())

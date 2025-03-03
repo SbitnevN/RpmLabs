@@ -1,4 +1,5 @@
 ﻿using MedRepairTrack.Core.Abstractions;
+using MedRepairTrack.Core.DataAccess.Entities;
 using MedRepairTrack.Core.Extensions;
 
 namespace MedRepairTrack.Application.EquipmentList.Equipment.Model
@@ -20,6 +21,26 @@ namespace MedRepairTrack.Application.EquipmentList.Equipment.Model
             .ToList();
 
         public string Model { get; set; } = string.Empty;
+
+        public static EquipmentEntity? ToEntity(EquipmentModel? model)
+        {
+            return (model == null) ? null : new EquipmentEntity()
+            {
+                Id = model.Id,
+                Model = model.Model,
+                EquipmentType = model.EquipmentType.ToString(),
+            };
+        }
+
+        public static EquipmentModel? FromEntity(EquipmentEntity? entity)
+        {
+            return (entity == null) ? null : new EquipmentModel()
+            {
+                Id = entity.Id,
+                Model = entity.Model,
+                EquipmentType = entity.EquipmentType.ParseEnum<EquipmentType>(),
+            };
+        }
 
         public object Clone()
         {

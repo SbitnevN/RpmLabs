@@ -19,5 +19,10 @@ namespace MedRepairTrack.Core.Extensions
         {
             return !value.IsEmpty();
         }
+
+        public static T ParseEnum<T>(this string value) where T : Enum
+        {
+            return (T)Enum.Parse(typeof(T), value, true);
+        }
     }
 }

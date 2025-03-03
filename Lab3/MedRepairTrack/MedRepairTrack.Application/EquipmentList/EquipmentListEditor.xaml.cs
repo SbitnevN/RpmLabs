@@ -2,6 +2,7 @@
 using System.Windows;
 using System.Windows.Controls;
 using MedRepairTrack.Application.EquipmentList.Equipment.Model;
+using MedRepairTrack.Application.EquipmentList.Equipment.Queries;
 using MedRepairTrack.Core.Extensions;
 
 
@@ -13,11 +14,17 @@ namespace MedRepairTrack.Application.EquipmentList
     public partial class EquipmentListEditor : UserControl
     {
         public ObservableCollection<EquipmentModel> Equipments { get; } = new ObservableCollection<EquipmentModel>();
+        private EquipmentQueries _equipmentQueries => EquipmentQueries.Instance;
 
         public EquipmentListEditor()
         {
             InitializeComponent();
             DataContext = this;
+            foreach (EquipmentModel equipmentModel in _equipmentQueries.GetAll())
+            {
+                Equipments.Add(equipmentModel);
+            }
+            Equipments.Refresh();
         }
 
         private void AddNewUser(object sender, RoutedEventArgs e)
@@ -28,6 +35,7 @@ namespace MedRepairTrack.Application.EquipmentList
 
             if (result)
             {
+                _equipmentQueries.Add(model);
                 Equipments.Add(model);
                 Equipments.Refresh();
             }
@@ -46,6 +54,7 @@ namespace MedRepairTrack.Application.EquipmentList
             bool result = editor.ShowDialog() ?? false;
             if (result)
             {
+                _equipmentQueries.Edit(editor.EquipmentModel);
                 Equipments[Equipments.IndexOf(model)] = editor.EquipmentModel;
                 Equipments.Refresh();
             }

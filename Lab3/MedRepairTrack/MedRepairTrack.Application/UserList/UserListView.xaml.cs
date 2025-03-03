@@ -3,6 +3,7 @@ using System.Collections.ObjectModel;
 using MedRepairTrack.Application.UserList.User;
 using MedRepairTrack.Application.UserList.User.Model;
 using MedRepairTrack.Core.Extensions;
+using MedRepairTrack.Application.UserList.User.Queries;
 
 namespace MedRepairTrack.Application.UserList
 {
@@ -13,11 +14,15 @@ namespace MedRepairTrack.Application.UserList
     {
         public ObservableCollection<UserModel> Users { get; } = new ObservableCollection<UserModel>();
         public UserModel SelectedUser => (UserModel)UserList.SelectedItem;
-
+        private UserQueries _userQueries => UserQueries.Instance;
         public UserListView()
         {
             InitializeComponent();
             DataContext = this;
+            foreach (UserModel user in _userQueries.GetAll())
+            {
+                Users.Add(user);
+            }
         }
 
         private void AddNewUser(object sender, RoutedEventArgs e)
@@ -28,6 +33,7 @@ namespace MedRepairTrack.Application.UserList
 
             if (result)
             {
+                _userQueries.Add(userModel);
                 Users.Add(userModel);
                 Users.Refresh();
             }
@@ -46,6 +52,7 @@ namespace MedRepairTrack.Application.UserList
             bool result = userEditor.ShowDialog() ?? false;
             if (result)
             {
+                _userQueries.Edit(userEditor.UserModel);
                 UserList.SelectedItem = userEditor.UserModel;
                 Users.Refresh();
             }
