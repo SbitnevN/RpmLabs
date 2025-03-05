@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedRepairTrack.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+557bfb54ad6070e2b743004eb7b18ec1f66de889")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e82172b634313b046ed5c6ce65f0f14d8544feda")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedRepairTrack.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedRepairTrack.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

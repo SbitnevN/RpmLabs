@@ -16,5 +16,5 @@ D:\GitHub\RpmLabs\Lab3\MedRepairTrack\MedRepairTrack.Application\App.xaml
 233-195693988
 Authentication\AuthenticationWindow.xaml;Authentication\Login\LoginControl.xaml;Authentication\Registration\RegistrationControl.xaml;EquipmentList\EquipmentListEditor.xaml;EquipmentList\EquipmentListView.xaml;EquipmentList\Equipment\EquipmentEditor.xaml;MainWindow.xaml;RequestList\RequestListEditor.xaml;RequestList\Request\RequestEditor.xaml;UserList\UserListEditor.xaml;UserList\UserListView.xaml;UserList\User\UserEditor.xaml;
 
-False
+True
 
