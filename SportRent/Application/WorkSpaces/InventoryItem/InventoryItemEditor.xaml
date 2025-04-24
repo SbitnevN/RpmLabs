@@ -1,0 +1,33 @@
+﻿<local:EditorBase x:Class="SportRent.Application.WorkSpaces.InventoryItem.InventoryItemEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SportRent.Application.Controls"
+        mc:Ignorable="d"
+        Title="Редактор" Height="316" Width="303">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="56*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="69*"/>
+            <RowDefinition Height="43*"/>
+        </Grid.RowDefinitions>
+
+
+
+        <Button x:Name="AcceptButton" Content="Принять" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Width="91" Grid.Row="5" Height="20" Click="AcceptButtonClick"/>
+        <Button x:Name="CancelButton" Content="Отмена" Margin="202,0,0,0" VerticalAlignment="Center" Grid.Row="5" Height="20" Click="CancelButtonClick" HorizontalAlignment="Left" Width="91"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,24,0,0" TextWrapping="Wrap" Text="{Binding Name}" VerticalAlignment="Top" Width="120" Height="18"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,12,0,0" TextWrapping="Wrap" Text="{Binding Description}" VerticalAlignment="Top" Width="120" Grid.Row="1" Height="18"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,0,0,0" TextWrapping="Wrap" Text="{Binding Size}" VerticalAlignment="Center" Width="120" Grid.Row="2" Height="18"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,0,0,0" TextWrapping="Wrap" Text="{Binding Price}" VerticalAlignment="Center" Width="120" Grid.Row="3" Height="18"/>
+        <ComboBox x:Name="InventoryTypes" HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Top" Width="120" Grid.Row="4" Height="22" SelectedItem="{Binding ItemType}" ItemsSource="{Binding InventoryItemTypeValues}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="135,24,0,0" TextWrapping="Wrap" Text="Наименование" VerticalAlignment="Top" Height="18" Width="134"/>
+        <TextBlock HorizontalAlignment="Left" Margin="135,12,0,0" TextWrapping="Wrap" Text="Опысание" VerticalAlignment="Top" Height="18" Width="134" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="135,0,0,0" TextWrapping="Wrap" Text="Размер" VerticalAlignment="Center" Height="18" Width="134" Grid.Row="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="135,0,0,0" TextWrapping="Wrap" Text="Цена" VerticalAlignment="Center" Height="18" Width="134" Grid.Row="3"/>
+    </Grid>
+</local:EditorBase>

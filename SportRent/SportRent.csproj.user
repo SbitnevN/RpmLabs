@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Application\Controls\EditorBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\Controls\ListControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\Controls\SelectControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\Controls\SelectorBase.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\CreateAccountWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\InventoryItem\InventoryItemEditor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\InventoryItem\InventoryItemModel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\InventoryItem\Query\InventoryItemEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\InventoryItem\Query\InventoryItemQuery.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\Order\OrderEditor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\Order\OrderModel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\Order\Query\OrderEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\Order\Query\OrderQuery.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\SignInWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\User\Query\UserEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\User\Query\UserQuery.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\User\UserEditor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Application\WorkSpaces\User\UserModel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Core\Abstractions\ICustomClonable.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Core\Abstractions\INotifiable.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Core\Abstractions\IValidatable.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Core\Abstractions\ModelBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Core\Abstractions\ValidateResult.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Database\DatabaseContext.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Database\create-database.bat">
+      <SubType>Code</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Application\Controls\ListControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Application\Controls\SelectControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Application\Controls\SelectorBase.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Application\WorkSpaces\CreateAccountWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Application\WorkSpaces\InventoryItem\InventoryItemEditor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Application\WorkSpaces\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Application\WorkSpaces\Order\OrderEditor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Application\WorkSpaces\SignInWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Application\WorkSpaces\User\UserEditor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
